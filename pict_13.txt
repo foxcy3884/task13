@@ -1,0 +1,4 @@
+TRADE MARK:  A4Tech, Avonic, Defender, HP,  MAXXTER, REAL-RE
+FASTENER:   desktop, pin, universal
+BUILT-IN MIC: Yes, No
+RESOLUTION: VGA(640*480), HD(1280*720),FullHD, 4K
